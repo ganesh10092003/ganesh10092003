@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/ganesh10092003/ganesh10092003/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/ganesh10092003/ganesh10092003/about_me.gif" width = 50px></picture> **About me**
 <br>
 
 - A passionate Self-taught Front-end developer
@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/ganesh10092003/ganesh10092003/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/ganesh10092003/ganesh10092003/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
