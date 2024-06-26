@@ -17,7 +17,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://cstganesh.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ln_jMpRvNKas6s0O43_E8lhV0pc35uvw/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1LRdND0M4poCbTIfC09MMd2glOXWAJgd3?usp=sharing)
 
 <br><br>
 
