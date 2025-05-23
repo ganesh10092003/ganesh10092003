@@ -11,7 +11,7 @@
 
 
 	
-## **🤝 About me**
+## <picture><img src = "about_me.gif" width = 35px></picture> **About me**
 <br>
 
 - A passionate Self-taught Front-end developer
